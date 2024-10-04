@@ -1,0 +1,1 @@
+export const BACKEND_URL ="https://my-app.amitjhah-2004.workers.dev";
